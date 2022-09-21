@@ -14,3 +14,5 @@ branch udah aku merge di main branch
 that's enough for now, i understand little bit
 
 ubah lagii, 
+
+* lanjut commit ke branch gesss
